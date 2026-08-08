@@ -1,5 +1,5 @@
 {
-    "name": "MOD NAME GOES HERE",
+    "name": "pitch black gx",
     "description": "MOD DESCRIPTION GOES HERE",
     "developer":
     {
@@ -133,15 +133,15 @@
                 {
                     "gx_accent":
                     {
-                        "h": 85,
-                        "s": 100,
-                        "l": 72
+                        "h": 0,
+                        "s": 0,
+                        "l": 100
                     },
                     "gx_secondary_base":
                     {
-                        "h": 272,
-                        "s": 64,
-                        "l": 16
+                        "h": 0,
+                        "s": 0,
+                        "l": 0
                     }
                 },
                 "light":
